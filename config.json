@@ -1,6 +1,6 @@
 {
   "serverHost": "SolarPlex.play.hosting",
-  "serverPort": 32125,
+  "serverPort": 10778,
   "botUsername": "MyBot",
   "botChunk": 1
 }
